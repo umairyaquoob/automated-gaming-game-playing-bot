@@ -1,1 +1,1 @@
-# automated-gaming-game-playing-bot
+# automated-gaming-playing-bot
